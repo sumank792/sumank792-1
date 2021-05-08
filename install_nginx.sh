@@ -43,7 +43,7 @@ curl http://172.31.31.99:8080/suman.html
 curl http://172.31.31.99:80/suman.html
 curl -I http://172.31.31.99:8080/suman.html
 curl -I http://172.31.31.99:80/suman.html
-nano new-file.html
+nano suman.html
 curl http://172.31.31.99:8080/suman.html
 curl http://172.31.31.99:80/suman.html
 curl -I http://172.31.31.99:8080/suman.html
